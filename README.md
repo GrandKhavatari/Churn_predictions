@@ -9,3 +9,6 @@ The main goal is to predict customers churn and reduce it, by using designed mac
 - personal.csv — customers features;
 - internet.csv — internet services features;
 - phone.csv — phone line features;
+
+# Machinne Learning task
+The ML task of the project is a classification task. 
