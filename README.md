@@ -1,7 +1,7 @@
-# Churn_predictions(Предсказание оттока клиентов)
+# Churn_predictions (Предсказание оттока клиентов)
 Make user churn status predictions
 
-# Основная задача
+# Main goal (Основная задача)
     
     
     
