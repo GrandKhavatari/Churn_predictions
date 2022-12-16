@@ -1,4 +1,4 @@
-# Churn_predictions
+# Churn_predictions(Предсказание оттока клиентов)
 Make user churn status predictions
 
 # Основная задача
